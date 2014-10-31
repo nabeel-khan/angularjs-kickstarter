@@ -128,7 +128,7 @@ grunt test
 ```
 
 ### Yeoman Subgenerators
-There are generators for *directive*,*partial*,*service*, *filter*, *module*, and *modal*.
+There are generators for *directive*,*partials*,*service*, *filter*, *module*, and *modal*.
 
 ```sh
 cd src
